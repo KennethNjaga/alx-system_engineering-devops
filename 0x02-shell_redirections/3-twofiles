@@ -1,2 +1,2 @@
 #!/bin/bash
-$ vim -p /etc/passwd /etc/hosts
+tail -f </etc/passwd> </etc/hosts>
